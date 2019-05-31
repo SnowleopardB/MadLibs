@@ -2,14 +2,17 @@
 
 Spel-programma om een grappig verhaaltje te maken.
 
-Friends verticaal:
-![Friends_vertical](Friends_vertical.png)
+volledig verhaal:
+![Madlibs1](Madlibs1.png)
 
-Friends horizontaal:
-![Friends_horizontal](Friends_horizontal.png)
+woorden invullen horizontaal:
+![Madlibs2](Madlibs2.png)
 
-Friend verticaal:
-![Friend_vertical](Friend_vertical.png)
+woorden invullen verticaal:
+![Madlibs3](madlibs3.png)
 
-Friend Horizontaal 
-![Friend_horizontal](Friend_horizontal.png)
+Verhaal kiezen horizontaal:
+![madlibs4](madlibs4.png)
+
+Verhaal kiezen verticaal:
+![madlibs5](madlibs5.png)
